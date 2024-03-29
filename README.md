@@ -1,1 +1,1 @@
-# currency-exchange
+# currency-exchange-data
